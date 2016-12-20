@@ -23,6 +23,7 @@
     "electron-prebuilt": "^1.4.12",
     "elm": "^0.18.0",
     "elm-upgrade": "^0.18.7",
+    "spectron": "^3.4.1",
     "standard": "7.1.2",
     "stylus": "0.54.5"
   },
